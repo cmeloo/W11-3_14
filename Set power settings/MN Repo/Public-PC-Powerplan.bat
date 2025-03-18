@@ -1,0 +1,1 @@
+powercfg -import "D:\Scripts_regedits\Automation Public PCs\Set power settings\MN Repo\PublicPC.pow" f0175e75-e80e-4253-a2a9-d3cf04966be9 && Powercfg /s f0175e75-e80e-4253-a2a9-d3cf04966be9

@@ -1,0 +1,1 @@
+﻿Set-ItemProperty -Path "Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" -Name StartMenuLogoff -Value 00000001
